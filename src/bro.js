@@ -1,5 +1,3 @@
-const bro = greeting => {
-    return `${greeting}`, bro;
-};
+const bro = greeting => `${greeting}, bro`;
 
 export { bro };
